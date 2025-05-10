@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "To-Do List",
-  description: "A simple to-do list app using Next.js and Tailwind CSS",
+  description: "Tugas CCI dengan Next.js and Tailwind CSS",
 };
 
 export default function RootLayout({ children }) {
